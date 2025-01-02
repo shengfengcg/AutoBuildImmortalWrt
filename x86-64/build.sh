@@ -28,6 +28,7 @@ PACKAGES="$PACKAGES luci-i18n-samba4-zh-cn"
 PACKAGES="$PACKAGES luci-app-usb-printer"
 PACKAGES="$PACKAGES luci-i18n-usb-printer-zh-cn"
 PACKAGES="$PACKAGES luci-app-vsftpd"
+PACKAGES="$PACKAGES luci-i18n-vsftpd-zh-cn"
 
 
 # 构建镜像
