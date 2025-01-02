@@ -22,7 +22,6 @@ PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
 PACKAGES="$PACKAGES luci-i18n-dockerman-zh-cn"
 PACKAGES="$PACKAGES luci-app-poweroffdevice
-PACKAGES="$PACKAGES luci-app-ddns
 PACKAGES="$PACKAGES luci-i18n-ddns-zh-cn
 PACKAGES="$PACKAGES luci-app-samba4
 PACKAGES="$PACKAGES luci-i18n-samba4-zh-cn
